@@ -27,6 +27,6 @@
 2. Разрешите установку из неизвестных источников
 3. Запустите установку
 
-[⬇️ Скачать приложение](mintgames.ru/mapArt/app-release.apk)
+[⬇️ Скачать приложение](https://mintgames.ru/mapArt/app-release.apk)
 
 ---
